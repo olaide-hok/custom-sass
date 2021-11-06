@@ -1,0 +1,25 @@
+{
+  "name": "custom-sass-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olaide-hok/custom-sass.git"
+  },
+  "author": "Habeeb Kareem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olaide-hok/custom-sass/issues"
+  },
+  "homepage": "https://github.com/olaide-hok/custom-sass#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-purgecss": "^4.0.3",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.43.4"
+  }
+}
